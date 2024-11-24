@@ -41,3 +41,10 @@ https://www.geeksforgeeks.org/how-to-install-an-ssl-certificate-on-nodejs/
 https://openssl.org/
 https://www.youtube.com/watch?v=USrMdBF0zcg (imp)
 https://github.com/trulymittal/ssl-secured
+--------------------------------------------------------------------------------------------------------
+port issue node js-
+https://stackoverflow.com/questions/39322089/node-js-port-3000-already-in-use-but-it-actually-isnt
+
+Angular defaults to port 4200
+node defaults to  port 3000
+react default port 3000
