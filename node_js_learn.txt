@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=USrMdBF0zcg&t=56s
+https://www.w3schools.com/nodejs/ref_https.asp
+https://www.youtube.com/watch?v=ztyRMfk0bAg
+https://stackoverflow.com/questions/11744975/enabling-https-on-express-js
+https://www.geeksforgeeks.org/how-to-create-https-server-with-node-js/
+
+
+This is first day node js
+default frontend backend port if not specified
+if want to use es6 syntax export import then need to use file extension .mjs
+https://stackoverflow.com/questions/14790910/stop-all-instances-of-node-js-server
+
+npm update
+npm install bootstrap
+npm update bootstrap^6
+
+need to start server everytime after making changes.
+https://www.digitalocean.com/community/tutorials/workflow-nodemon
+https://www.e2enetworks.com/blog/how-to-restart-your-node-js-apps-automatically-with-nodemon
+
+
+node js important packages
+https://www.turing.com/blog/top-npm-packages-for-node-js-developers
+
+
+--------------------------------------------------------------------------------------------------------
+ssl karna hai https node js api expose-
+https://www.youtube.com/watch?v=ztyRMfk0bAg
+https://www.npmjs.com/package/nodemon
+https://dev.to/devland/how-to-generate-and-use-an-ssl-certificate-in-nodejs-2996
+https://www.ssldragon.com/how-to/install-ssl-certificate/node-js/
+https://www.geeksforgeeks.org/how-to-create-https-server-with-node-js/
+https://www.youtube.com/watch?v=ztyRMfk0bAg
+https://nodejs.org/api/fs.html
+https://www.youtube.com/watch?v=USrMdBF0zcg
+https://stackoverflow.com/questions/4840879/nodejs-how-to-get-the-servers-port
+https://itnext.io/node-express-letsencrypt-generate-a-free-ssl-certificate-and-run-an-https-server-in-5-minutes-a730fbe528ca
+https://sslinsights.com/how-to-install-ssl-certificate-on-node-js/
+https://javascript.plainenglish.io/generate-ssl-certificate-using-node-js-for-web-apps-73d452ad5898
+https://www.geeksforgeeks.org/how-to-install-an-ssl-certificate-on-nodejs/
+https://openssl.org/
+https://www.youtube.com/watch?v=USrMdBF0zcg (imp)
+https://github.com/trulymittal/ssl-secured
