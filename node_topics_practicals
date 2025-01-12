@@ -29,3 +29,70 @@ https://medium.com/@hamzamakh/authentication-and-authorization-using-jwt-with-no
 https://medium.com/@mehmet.r.river/fetching-data-with-axios-in-react-42f79490a97b
 https://www.freecodecamp.org/news/how-to-use-axios-with-react/
 https://www.geekster.in/articles/axios-in-react/
+
+4) Multer file upload
+https://www.geeksforgeeks.org/multer-npm/
+https://medium.com/@mohsinansari.dev/handling-file-uploads-and-file-validations-in-node-js-with-multer-a3716ec528a3
+https://www.bacancytechnology.com/blog/node-js-multer
+https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/
+
+6) bcrypt node for password
+https://www.geeksforgeeks.org/password-encryption-in-node-js-using-bcryptjs-module/
+https://medium.com/@shital.pimpale5/how-to-store-password-and-credentials-in-nodejs-application-fd6420e4db6c
+
+7) Mangoose connectivity node + mongodb
+https://mongoosejs.com/docs/connections.html
+https://www.topcoder.com/thrive/articles/how-to-connect-mongodb-to-node-js-using-mongoose
+https://medium.com/@tomorchandraroy884/how-to-connect-mongodb-with-node-js-using-mongoose-a0c772dfb1ca
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/mongoose
+
+
+8) core node js modules
+https://www.w3schools.com/nodejs/ref_modules.asp
+https://www.geeksforgeeks.org/what-are-modules-in-node-js/
+https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules
+https://www.turing.com/blog/top-npm-packages-for-node-js-developers
+
+
+9) Aggreation framework
+https://www.mongodb.com/developer/products/mongodb/introduction-aggregation-framework/
+https://www.mongodb.com/docs/drivers/node/current/
+https://www.geeksforgeeks.org/how-to-use-mongodb-aggregation-framework-in-nodejs/
+https://www.mongodb.com/developer/languages/javascript/node-aggregation-framework/#what-is-the-aggregation-framework-
+https://adevait.com/nodejs/aggregation-pipeline-mongodb-building-applications
+https://medium.com/edonec/advanced-aggregation-pipeline-with-mongodb-nodejs-9bf023e74892
+
+
+10) connect moongose to Atlas
+https://stackoverflow.com/questions/43394019/how-to-connect-to-mongodb-atlas-using-mongoose
+https://www.geeksforgeeks.org/how-to-connect-node-js-to-mongodb-atlas-using-mongoose/ (working)
+https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
+mongodb+srv://anandphadnis:Chor4321@cluster0.azvp2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+https://www.geeksforgeeks.org/node-js-crud-operations-using-mongoose-and-mongodb-atlas/
+https://medium.com/@skhans/how-to-build-a-basic-node-js-crud-app-with-mongoose-and-mongodb-3e958a36001d
+
+
+imp links
+https://www.tutorialspoint.com/nodejs/index.htm
+https://www.w3schools.com/nodejs/ref_modules.asp
+https://www.freecodecamp.org/news/get-started-with-nodejs/
+https://www.youtube.com/watch?v=Oe421EPjeBE
+https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw
+https://www.tutorialsteacher.com/nodejs
+https://www.bacancytechnology.com/blog/node-js/
+
+
+Imporant middleware
+https://www.geeksforgeeks.org/body-parser-middleware-in-node-js/
+https://medium.com/@arorashivansh2661992/middleware-in-node-js-ed4eee917ff0
+https://www.turing.com/kb/building-middleware-for-node-js
+https://selvaganesh93.medium.com/how-node-js-middleware-works-d8e02a936113
+https://medium.com/@amirakhaled2027/body-parser-middleware-in-node-js-75b6b9a36613
+
+
+cors : Enable cross-origin resource sharing (CORS) with various options.
+cookie-parser : Parse cookie header and populate req.cookies.
+morgan : HTTP requests logger.
+multer : Handle multi-part form data.
+bodyparser: Body-parser is the Node.js body-parsing middleware. It is responsible for parsing the incoming request bodies in a middleware before you handle it. It’s commonly used in web applications built with Express.js to handle form submissions, JSON payloads, and other types of request bodies.
+body-parser is essential for handling incoming data in a variety of formats, such as JSON, URL-encoded form data, and raw or text data. It transforms this data into a readable format under req.body for easier processing in your application.
