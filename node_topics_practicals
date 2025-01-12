@@ -1,0 +1,31 @@
+1) CORS
+https://www.stackhawk.com/blog/nodejs-cors-guide-what-it-is-and-how-to-enable-it/
+https://www.geeksforgeeks.org/use-of-cors-in-node-js/
+https://dev.to/speaklouder/how-to-configure-cors-in-nodejs-with-express-11h
+https://medium.com/@murgesh.e/3-methods-to-include-cors-in-your-node-js-6b645e0b6fa6
+https://www.geeksforgeeks.org/use-of-cors-in-node-js/
+https://www.stackhawk.com/blog/nodejs-cors-guide-what-it-is-and-how-to-enable-it/
+https://dev.to/speaklouder/how-to-configure-cors-in-nodejs-with-express-11h
+https://saragam.medium.com/cors-in-node-js-with-express-99b355e93def
+
+
+2) JWT token-
+https://www.geeksforgeeks.org/jwt-authentication-with-node-js/
+https://www.youtube.com/watch?v=mGrVmEex6_g
+https://www.geeksforgeeks.org/how-to-implement-jwt-authentication-in-express-js-app/?ref=lbp
+https://www.youtube.com/watch?v=OWeruyqhiTo&t=600s
+https://www.youtube.com/watch?v=qkMJL0FwiyE
+custom middleware
+https://www.youtube.com/@coderdost/playlists
+https://www.youtube.com/watch?v=ohIAiuHMKMI&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
+https://www.youtube.com/watch?v=bSI2zOQm7qM
+https://dvmhn07.medium.com/jwt-authentication-in-node-js-a-practical-guide-c8ab1b432a49
+https://medium.com/@gb.usmanumar/how-to-create-and-implement-json-web-token-jwt-in-node-js-with-express-js-28b45848ee73
+https://zweck.io/jwt-authentication-in-node-js-with-middleware-a-secure-approach-for-web-applications/
+https://medium.com/@hamzamakh/authentication-and-authorization-using-jwt-with-node-js-39a0dfb6cbc6
+
+
+3) Fetch data using Axios
+https://medium.com/@mehmet.r.river/fetching-data-with-axios-in-react-42f79490a97b
+https://www.freecodecamp.org/news/how-to-use-axios-with-react/
+https://www.geekster.in/articles/axios-in-react/
