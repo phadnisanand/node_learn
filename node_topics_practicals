@@ -61,7 +61,7 @@ https://www.geeksforgeeks.org/how-to-use-mongodb-aggregation-framework-in-nodejs
 https://www.mongodb.com/developer/languages/javascript/node-aggregation-framework/#what-is-the-aggregation-framework-
 https://adevait.com/nodejs/aggregation-pipeline-mongodb-building-applications
 https://medium.com/edonec/advanced-aggregation-pipeline-with-mongodb-nodejs-9bf023e74892
-
+https://www.youtube.com/watch?v=SUZKhBvxW5c&list=PLRAV69dS1uWQ6CZCehxKy0rjkqhQ2Z88t
 
 10) connect moongose to Atlas
 https://stackoverflow.com/questions/43394019/how-to-connect-to-mongodb-atlas-using-mongoose
@@ -81,6 +81,11 @@ https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw
 https://www.tutorialsteacher.com/nodejs
 https://www.bacancytechnology.com/blog/node-js/
 
+https://www.youtube.com/watch?v=ohIAiuHMKMI&t=1s
+https://www.youtube.com/watch?v=xrglM8U0Zv8  -> Mangoose
+https://www.youtube.com/watch?v=JLtXoru-ipo  -> mVC
+https://www.youtube.com/watch?v=ohIAiuHMKMI&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
+https://dev.to/eclecticcoding/express-and-body-parser-khf body parser
 
 Imporant middleware
 https://www.geeksforgeeks.org/body-parser-middleware-in-node-js/
@@ -96,3 +101,9 @@ morgan : HTTP requests logger.
 multer : Handle multi-part form data.
 bodyparser: Body-parser is the Node.js body-parsing middleware. It is responsible for parsing the incoming request bodies in a middleware before you handle it. It’s commonly used in web applications built with Express.js to handle form submissions, JSON payloads, and other types of request bodies.
 body-parser is essential for handling incoming data in a variety of formats, such as JSON, URL-encoded form data, and raw or text data. It transforms this data into a readable format under req.body for easier processing in your application.
+
+
+Pug, EJS, Handlebar-
+https://dev.to/m__mdy__m/javascript-templating-engines-pug-handlebars-hbs-and-ejs-jcd
+
+https://expressjs.com/
